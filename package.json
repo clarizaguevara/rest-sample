@@ -1,0 +1,16 @@
+{
+  "name": "restapidemo",
+  "version": "1.0.0",
+  "description": "REST demo",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cguevara6",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "joi": "^17.6.0"
+  }
+}
